@@ -1,0 +1,1 @@
+# Correlation-Coefficient-Based-Fast-Template-Matching-Through-Partial-Elimination
